@@ -1,0 +1,22 @@
+{
+  "n_samples_after_cleaning": 3545,
+  "n_train": 2268,
+  "n_validation": 568,
+  "n_test": 709,
+  "features": [
+    "Flow_L_min",
+    "TDS_smooth",
+    "Turbidity_smooth"
+  ],
+  "encoding": "TTFS, at most one input spike per feature per sample",
+  "neuron": "Adaptive LIF with spike-history threshold adaptation",
+  "timesteps": 20,
+  "hidden_units": 64,
+  "accuracy": 0.6614950634696756,
+  "macro_f1": 0.6389305052921411,
+  "weighted_f1": 0.6568107845679804,
+  "macro_precision": 0.6387809010486769,
+  "macro_recall": 0.647951117810935,
+  "test_mean_spikes_per_sample": 23.13963328631876,
+  "device": "cuda"
+}
