@@ -185,7 +185,7 @@ Check the notebook's configured paths, expected CSV columns and preprocessing be
 
 ## References
 
-- **NeuroPipe research document:** *NeuroPipe: Sparse Population Spike Encoding and Adaptive-LIF Neurons for Energy-Efficient Pipeline Anomaly Classification* (provided as the project design and experiment reference).
+- **NeuroPipe research document:** [NeuroPipe: Sparse Population Spike Encoding and Adaptive-LIF Neurons for Energy-Efficient Pipeline Anomaly Classification (PDF)](https://drive.google.com/file/d/14KA1kuC_C-5-T1BFOH-YzxocGBahjW4D/view?usp=sharing) (project design and experiment reference).
 - **NEXUS dataset and earlier implementation:** [NEXUS: Neuromorphic Edge Intelligence for Sewer-Blockage Detection](https://github.com/Abhikumar199/NEXUS-Neuromorphic_Edge_Intelligence-).
 - **This repository:** [NeuroPipe_Adaptive-LIF](https://github.com/Abhikumar199/NeuroPipe_Adaptive-LIF).
 
